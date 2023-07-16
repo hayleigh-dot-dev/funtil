@@ -121,7 +121,7 @@ pub fn fix(f) {
 
 /// A version of the [`fix`](#fix) util for functions that take two arguments.
 /// 
-/// /// 🚨 Gleam is designed with this limitation to encourage you to pull things out
+/// 🚨 Gleam is designed with this limitation to encourage you to pull things out
 /// of `let` bindings when they get too complex. If you find yourself reaching for
 /// `fix2`, consider if there's a clearer way to solve your problem.
 /// 
@@ -131,7 +131,7 @@ pub fn fix2(f) {
 
 /// A version of the [`fix`](#fix) util for functions that take three arguments.
 /// 
-/// /// 🚨 Gleam is designed with this limitation to encourage you to pull things out
+/// 🚨 Gleam is designed with this limitation to encourage you to pull things out
 /// of `let` bindings when they get too complex. If you find yourself reaching for
 /// `fix3`, consider if there's a clearer way to solve your problem.
 /// 
