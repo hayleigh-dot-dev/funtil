@@ -3,7 +3,7 @@
 [![Package Version](https://img.shields.io/hexpm/v/funtil)](https://hex.pm/packages/funtil)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/funtil/)
 
-A Gleam project
+Handy utilities for better functional programming in Gleam!
 
 ## Quick start
 
