@@ -73,7 +73,7 @@ pub fn void(_: a) -> Nil {
 /// around this limitation by making the recursive function a parameter of
 /// itself.
 /// 
-/// Sound a bit mind-bending? Let's first take a look at what happens if we try
+/// Sound a bit too magical? Let's first take a look at what happens if we try
 /// to write a recursive `let`-bound function in Gleam:
 /// 
 /// ```gleam
@@ -94,7 +94,7 @@ pub fn void(_: a) -> Nil {
 /// We get a compile error because the name `factorial` is not in scope inside
 /// the function body. What does it look like if we try to use `fix`?
 /// 
-/// /// ```gleam
+/// ```gleam
 /// import funtil.{fix}
 /// 
 /// pub fn example() {
