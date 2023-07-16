@@ -1,0 +1,13 @@
+name = "funtil"
+version = "1.0.0"
+
+description = "Handy utilities for better functional programming in Gleam!"
+licences = ["MIT"]
+links = [{ title = "Buy me a coffee?", href = "https://github.com/sponsors/hayleigh-dot-dev"}]
+repository = { type = "github", user = "hayleigh-dot-dev", repo = "gleam-lustre" }
+
+[dependencies]
+gleam_stdlib = "~> 0.29"
+
+[dev-dependencies]
+gleeunit = "~> 0.10"
